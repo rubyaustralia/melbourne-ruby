@@ -18,10 +18,14 @@ Current organisers: Mario Visic, Pat Allan
 
 ### Alcoholic
 
+Current estimate is 5 cases.
+
 * Order from Dan Murphy's online the day before (more options, slightly cheaper, delivery cost per case).
 * Order from LiquorRun.com on the day (less options, single delivery cost, local business)
 
 ### Non-Alcoholic
+
+Current estimate is 2-3 cases.
 
 * Order from Hepburn Springs Mineral Water via email the day before delivery (deliveries are only Tues/Thurs for Richmond, all week day for CBD).
 
