@@ -33,6 +33,6 @@ Current estimate is 2-3 cases.
 
 * Inspire9 (space for presentation and hack nights)
 * Envato ($500/month and space for InstallFests)
-* Zendesk (drinks, amount to be confirmed)
+* Zendesk ($200/month for drinks)
 * reInteractive (InstallFest food/drink costs and Meetup costs)
 * Lookahead Search ($500/month)
