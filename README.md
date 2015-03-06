@@ -1,7 +1,7 @@
 Melbourne Ruby
 ==============
 
-Current organisers: Mario Visic, Pat Allan
+Current organisers: Gareth Townsend, Matt Allen
 
 ## Venues
 
@@ -25,14 +25,14 @@ Current estimate is 5 cases.
 
 ### Non-Alcoholic
 
-Current estimate is 2-3 cases.
+Current estimate is 4 cases.
 
 * Order from Hepburn Springs Mineral Water via email the day before delivery (deliveries are only Tues/Thurs for Richmond, all week day for CBD).
 
 ## Sponsors
 
-* Inspire9 (space for presentation and hack nights)
 * Envato ($500/month and space for InstallFests)
 * Zendesk ($200/month for drinks)
-* reInteractive (InstallFest food/drink costs and Meetup costs)
+* reinteractive ($500/month for the Hack night, plus InstallFest food/drink costs and Meetup costs)
 * Lookahead Search ($500/month)
+* Redbubble ($500/month)
