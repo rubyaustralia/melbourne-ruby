@@ -11,8 +11,9 @@ Current organisers: Gareth Townsend, Matt Allen
 ## Food Options
 
 * Crust Pizzas - approx one pizza for every two people, ~$10 per person, gluten free options available. 9429 3949, from ordering, delivery is usually around an hour's wait.
-* The Taco Guy - $5 per taco, allow for 2.5 tacos per person (so, $12.50), requires ordering a week or so in advance. Gluten free with vegetarian and lactose-free options.
+* The Taco Guy - $5 per taco, allow for 2.5 tacos per person (so, $12.50), requires ordering a week or so in advance. Gluten free with vegetarian and lactose-free options (*Note*: sadly The Taco Guy is no longer operating).
 * ASRC Catering - $17 per person for six finger food items. Requires ordering close to a month in advance, though final numbers can be confirmed about a week before the event. All vegetarian, and many gluten/lactose-free options.
+* Miss Chu - roughly $14 per person (currently paying just under $1400 for ~100 people), though could certainly order more and it would be eaten. Plenty of vegetarian and vegan options, all lactose free, and most gluten free.
 
 ## Drinks Options
 
