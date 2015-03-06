@@ -19,14 +19,14 @@ Current organisers: Gareth Townsend, Matt Allen
 
 ### Alcoholic
 
-Current estimate is 5 cases.
+Current estimate is 5 cases, costing around $280. Was three beer, two cider, but a better balance going by what disappears first is four beer, one cider.
 
 * Order from Dan Murphy's online the day before (more options, slightly cheaper, delivery cost per case).
 * Order from LiquorRun.com on the day (less options, single delivery cost, local business)
 
 ### Non-Alcoholic
 
-Current estimate is 4 cases.
+Current estimate is 4 cases, with a mix of flavoured mineral waters/soft drinks plus plain sparkling mineral water. Costs around $160/month.
 
 * Order from Hepburn Springs Mineral Water via email the day before delivery (deliveries are only Tues/Thurs for Richmond, all week day for CBD).
 
