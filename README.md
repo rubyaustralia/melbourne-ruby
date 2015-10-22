@@ -5,7 +5,7 @@ Current organisers: Gareth Townsend, Matt Allen
 
 ## Venues
 
-* Inspire9, Level 1, 41-43 Stewart St, Richmond 3121
+* Teamsquare, Level 1, 520 Bourke St, Melbourne 3000
 * Envato, 121 King St, Melbourne 3000
 
 ## Food Options
