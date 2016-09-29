@@ -5,7 +5,7 @@ Current organisers: Gareth Townsend, Matt Allen
 
 ## Venues
 
-* Teamsquare, Level 1, 520 Bourke St, Melbourne 3000
+* Zendesk, 67 Queen St, Melbourne 3000
 * Envato, 121 King St, Melbourne 3000
 
 ## Food Options
