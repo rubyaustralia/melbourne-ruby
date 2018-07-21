@@ -3,7 +3,7 @@
 Current organisers:
 
 * RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Toby Nieboer](https://twitter.com/tcn33)
-* Hack Night: [James MacLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
+* Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
 * InstallFest: [Rachelle LeQuesne](https://twitter.com/RachelleOnRails)
 
 ## Venues
@@ -26,7 +26,17 @@ Options for other meetups:
 
 ### Alcoholic
 
-RORO now has a drinks sponsor, Marketplacer. We order the drinks on their behalf (to be delivered the prior afternoon so that they can be refrigerated - they're delivered warm), then forward them the invoice for payment.
+RORO now has a drinks sponsor, Marketplacer. We order the drinks on their behalf (to be delivered the prior afternoon so that they can be refrigerated - they're delivered warm), then forward them the invoice for payment. Vendor is [The Wigs Cellar](http://www.thewigscellar.com.au/old/), on Queen St (03 9670 2753). At present the drinks order is:
+
+* 5 cases of beer
+* 1 case of apple cider
+* Half a case of pear cider
+* 2 bottles sauvignon blanc
+* 1 bottle pinot grigio
+* 2 bottles shiraz
+* 1 bottle pinot noir
+
+This runs about $570.
 
 For other meetups:
 
