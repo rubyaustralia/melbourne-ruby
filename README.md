@@ -45,7 +45,7 @@ For other meetups:
 
 ### Non-Alcoholic
 
-For RORO, Zendesk graciously provides non-alcoholic drinks. For other meetups, they can be ordered from the same vendor as the alcohol, or purchased separately.
+For RORO, Zendesk graciously provides non-alcoholic drinks (though lately they seem to be scaling this back, so we may need to add non-alcoholic drinks to our Wigs order). For other meetups, they can be ordered from the same vendor as the alcohol, or purchased separately.
 
 ## Sponsors
 
