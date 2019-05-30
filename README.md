@@ -2,7 +2,7 @@
 
 Current organisers:
 
-* RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Toby Nieboer](https://twitter.com/tcn33)
+* RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Celia King](https://twitter.com/ceels), [Vanessa Nimmo](https://twitter.com/nessnimmo)
 * Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
 * InstallFest: [Rachelle LeQuesne](https://twitter.com/RachelleOnRails)
 
