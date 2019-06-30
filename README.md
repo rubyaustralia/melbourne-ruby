@@ -4,13 +4,11 @@ Current organisers:
 
 * RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Celia King](https://twitter.com/ceels), [Vanessa Nimmo](https://twitter.com/nessnimmo)
 * Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
-* InstallFest: [Rachelle LeQuesne](https://twitter.com/RachelleOnRails)
 
 ## Venues
 
 * Zendesk, 67 Queen St, Melbourne 3000 (RORO)
-* Inspire9, 45 Stewart St, Richmond 3121 (Hack Night)
-* Envato, 121 King St, Melbourne 3000 (InstallFest)
+* Envato, 121 King St, Melbourne 3000 (Hack Night)
 
 ## Food Options
 
