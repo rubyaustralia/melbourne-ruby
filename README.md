@@ -2,7 +2,7 @@
 
 Current organisers:
 
-* RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Celia King](https://twitter.com/ceels), [Vanessa Nimmo](https://twitter.com/nessnimmo)
+* RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia)
 * Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
 
 ## Venues
