@@ -7,7 +7,7 @@ Current organisers:
 
 ## Venues
 
-* Zendesk, 67 Queen St, Melbourne 3000 (RORO)
+* Kathleen Syme Library and Community Centre, 251 Faraday St, Carlton VIC 3053 (RORO)
 * Envato, 121 King St, Melbourne 3000 (Hack Night)
 
 ## Food Options
