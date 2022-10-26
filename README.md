@@ -2,7 +2,7 @@
 
 Current organisers:
 
-* RORO: [Ryan Bigg](https://twitter.com/ryanbigg), [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia)
+* RORO: [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia)
 * Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
 
 ## Venues
@@ -43,13 +43,12 @@ For other meetups:
 
 ### Non-Alcoholic
 
-For RORO, Zendesk graciously provides non-alcoholic drinks (though lately they seem to be scaling this back, so we may need to add non-alcoholic drinks to our Wigs order). For other meetups, they can be ordered from the same vendor as the alcohol, or purchased separately.
+They can be ordered from the same vendor as the alcohol, or purchased separately.
 
 ## Sponsors
 
 All events are covered by Ruby Australia via annual sponsorship, aside from the venue (and in the case of RORO, drinks). At each event we should be thanking the [current Ruby and Emerald level sponsors of Ruby Australia](https://ruby.org.au/sponsorship), plus the venue and drinks sponsors.
 
-* Zendesk (RORO venue sponsor)
 * Marketplacer (RORO drinks sponsor)
 
 ## Code of Conduct
