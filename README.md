@@ -49,7 +49,7 @@ They can be ordered from the same vendor as the alcohol, or purchased separately
 
 All events are covered by Ruby Australia via annual sponsorship, aside from the venue (and in the case of RORO, drinks). At each event we should be thanking the [current Ruby and Emerald level sponsors of Ruby Australia](https://ruby.org.au/sponsorship), plus the venue and drinks sponsors.
 
-* Marketplacer (RORO drinks sponsor)
+* Gleam.io (RORO drinks sponsor)
 
 ## Code of Conduct
 
