@@ -2,12 +2,12 @@
 
 Current organisers:
 
-* RORO: [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia)
+* RORO: [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia), Simran Sawhney
 * Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
 
 ## Venues
 
-* Kathleen Syme Library and Community Centre, 251 Faraday St, Carlton VIC 3053 (RORO)
+* Boyd Community Hub, 207 City Rd, Southbank VIC 3006 (RORO)
 * Envato, 121 King St, Melbourne 3000 (Hack Night)
 
 ## Food Options
@@ -24,7 +24,7 @@ Options for other meetups:
 
 ### Alcoholic
 
-RORO now has a drinks sponsor, Marketplacer. We order the drinks on their behalf (to be delivered the prior afternoon so that they can be refrigerated - they're delivered warm), then forward them the invoice for payment. Vendor is [The Wigs Cellar](http://www.thewigscellar.com.au/old/), on Queen St (03 9670 2753). At present the drinks order is:
+RORO now has a drinks sponsor, Gleam.io. We order the drinks on their behalf (to be delivered the prior afternoon so that they can be refrigerated - they're delivered warm), then forward them the invoice for payment. Vendor is [The Wigs Cellar](http://www.thewigscellar.com.au/old/), on Queen St (03 9670 2753). At present the drinks order is:
 
 * 5 cases of beer
 * 1 case of apple cider
