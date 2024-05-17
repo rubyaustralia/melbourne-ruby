@@ -1,7 +1,7 @@
 ---
 name: Talk Proposal
 about: Template for submitting a talk proposal for Ruby Melbourne
-title: ''
+title: 'Talk Proposal: '
 labels: ''
 assignees: ''
 
