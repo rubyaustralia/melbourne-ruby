@@ -2,13 +2,11 @@
 
 Current organisers:
 
-* RORO: [Kevin Garcia-Fernandez](https://twitter.com/kevintechgarcia), Simran Sawhney
-* Hack Night: [James McLaren](https://twitter.com/jamesmclaren555), [Tom Dalling](https://twitter.com/tom_dalling)
+* RORO: Simran Sawhney, [Adam Rice](https://twitter.com/HashNotAdam)
 
 ## Venues
 
 * Boyd Community Hub, 207 City Rd, Southbank VIC 3006 (RORO)
-* Envato, 121 King St, Melbourne 3000 (Hack Night)
 
 ## Food Options
 
