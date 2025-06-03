@@ -2,7 +2,7 @@
 
 Current organisers:
 
-* RORO: Simran Sawhney, [Adam Rice](https://twitter.com/HashNotAdam)
+* RORO: [Simran Sawhney](https://github.com/simran-sawhney), [Adam Rice](https://twitter.com/HashNotAdam)
 
 ## Venues
 
