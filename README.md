@@ -1,18 +1,28 @@
 # Melbourne Ruby
 
-Current organisers:
+## Current organisers:
 
-* RORO: [Simran Sawhney](https://github.com/simran-sawhney), [Adam Rice](https://twitter.com/HashNotAdam)
+* [Simran Sawhney](https://github.com/simran-sawhney)
+* [Adam Rice](https://twitter.com/HashNotAdam)
 
 ## Venues
 
-* Boyd Community Hub, 207 City Rd, Southbank VIC 3006 (RORO)
+* Ferocia - Level 7/271 Collins St, Melbourne VIC 3000
 
 ## Sponsors
 
-All events are covered by Ruby Australia via annual sponsorship, aside from the venue (and in the case of RORO, drinks). At each event we should be thanking the [current Ruby and Emerald level sponsors of Ruby Australia](https://ruby.org.au/sponsorship), plus the venue and drinks sponsors.
+All events are covered by Ruby Australia via annual sponsorship, aside from the venue (and in the case of Melbourne Ruby, drinks). At each event we should be thanking the [current Ruby and Emerald level sponsors of Ruby Australia](https://ruby.org.au/sponsorship), plus the venue and drinks sponsors.
 
-* Gleam.io (RORO drinks sponsor)
+* Gleam.io (Melbourne Ruby drinks sponsor)
+* Ferocia.com.au (Melbourne Ruby official venue partner)
+* Jetbrains (Software subscriptions for our attendees)
+
+## Links
+
+* [Melbourne Ruby Website](https://melbourne.ruby.org.au/)
+* [Videos](https://www.ruby.org.au/videos)
+* [Meetup Details](https://www.meetup.com/ruby-on-rails-oceania-melbourne/)
+
 
 ## Code of Conduct
 
