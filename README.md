@@ -15,6 +15,7 @@ All events are covered by Ruby Australia via annual sponsorship, aside from the 
 
 * Gleam.io (Melbourne Ruby drinks sponsor)
 * Ferocia.com.au (Melbourne Ruby official venue partner)
+* Twilio (Melbourne Ruby Partner)
 * Jetbrains (Software subscriptions for our attendees)
 
 ## Links
