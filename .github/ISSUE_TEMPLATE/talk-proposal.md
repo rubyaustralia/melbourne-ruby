@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-Description(this will appear on youtube):
+Description (this will appear on YouTube):
 
 Estimated Talk Time:
 
-Prefered Month to Present:
+Preferred Month to Present:
 
 Preferred Social media handles:
 
